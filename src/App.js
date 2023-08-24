@@ -42,6 +42,37 @@ function App() {
       </ul>
       </span>
     </div>
+    <hr width="620px"/>
+    {/* Skills */}
+    <div >
+      <h1>Skills</h1>
+      <div className='container'>
+<span>
+  <h3>Soft Skills</h3>
+      <ul>
+        <li>Problem Solving</li>
+        <li>Communication Skills</li>
+        <li>Team Work</li>
+        <li>Growth Mindset</li>
+        <li>Creativity</li>
+        
+      </ul>
+      </span>
+      <span>
+        <h3>Technical Skills</h3>
+        <ul>
+          <li>React Js</li>
+          <li>Next Js</li>
+          <li>Html</li>
+          <li>Css3</li>
+          <li>JavaScript</li>
+          <li>Chakra Ui</li>
+          <li>Tailwind css</li>
+          <li>Redux Toolkit</li>
+        </ul>
+      </span>
+     </div>
+    </div>
     </div>
   );
 }
