@@ -1,9 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Button from './Components/Button.js';
 
 function App() {
   return (
     <div>
+      <Button name="Login"/>
+      <Button name="Signin"/>
     {/* Profile */}
     <div>
       <h1>BENEDICT BAAH</h1>
