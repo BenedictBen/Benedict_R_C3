@@ -5,8 +5,8 @@ import Button from './Components/Button.js';
 function App() {
   return (
     <div>
-      <Button name="Login"/>
-      <Button name="Signin"/>
+      <Button label="Login"/>
+      <Button label="Signin"/>
     {/* Profile */}
     <div>
       <h1>BENEDICT BAAH</h1>
